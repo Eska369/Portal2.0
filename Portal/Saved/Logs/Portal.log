@@ -1852,3 +1852,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.23-21.49.45:686][664]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperEEF02A3946E428B4198E0CAB0C3AD15C.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
 [2021.06.23-21.49.45:707][664]AssetCheck: New page: Asset Save: Kacper
 [2021.06.23-21.49.45:707][664]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.23-21.50.35:644][287]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape)
+[2021.06.23-21.51.04:490][122]LogActorFactory: Actor Factory created table
+[2021.06.23-21.51.05:283][160]LogActorFactory: Actor Factory created table
+[2021.06.23-21.52.24:970][533]Cmd: EDIT COPY
+[2021.06.23-21.52.25:162][546]Cmd: EDIT PASTE
+[2021.06.23-21.52.29:824][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table)
+[2021.06.23-21.52.30:960][964]Cmd: EDIT COPY
+[2021.06.23-21.52.31:132][978]Cmd: EDIT PASTE
+[2021.06.23-21.52.32:126][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table3)
+[2021.06.23-21.52.49:279][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table2)
+[2021.06.23-21.52.50:302][340]Cmd: EDIT COPY
+[2021.06.23-21.52.50:554][359]Cmd: EDIT PASTE
+[2021.06.23-21.53.26:513][209]LogMaterial: Display: Missing cached shader map for material T_Wood_Pine_Mat, compiling. 
+[2021.06.23-21.53.26:533][209]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.23-21.53.26:533][209]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-21.54.19:120][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.23-21.54.19:152][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.23-21.54.19:211][591]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/Kacper99E366BE4B36EFF7E55A34960C57C6E4.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.23-21.54.19:234][591]AssetCheck: New page: Asset Save: Kacper
+[2021.06.23-21.54.19:234][591]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.23-21.55.08:943][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.06.23-21.55.10:287][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.23-21.55.10:320][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.23-21.55.10:380][972]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/Kacper64A796284D5778E6BF6DC5AD07DCA557.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.23-21.55.10:411][972]AssetCheck: New page: Asset Save: Kacper
+[2021.06.23-21.55.10:411][972]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
