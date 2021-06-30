@@ -3564,3 +3564,704 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.30-23.01.41:988][833]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperD1CA9F0A488643F98C43C09424F8B8A8.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
 [2021.06.30-23.01.42:056][833]AssetCheck: New page: Asset Save: Kacper
 [2021.06.30-23.01.42:056][833]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.30-23.11.30:698][417]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.11.30:712][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.11.30:712][417]PIE: New page: PIE session: Kacper (1 lip 2021, 03:11:30)
+[2021.06.30-23.11.30:713][417]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.11.30:961][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.248288s)
+[2021.06.30-23.11.30:963][417]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.11.30:964][417]LogPlayLevel: PIE: World Init took: (0.002773s)
+[2021.06.30-23.11.30:965][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.251630s)
+[2021.06.30-23.11.30:998][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.06.30-23.11.31:010][417]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.11.31:010][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.11.31:010][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.11.31:011][417]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.11.31:011][417]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.11.31:019][417]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.11.31:019][417]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.11.31:087][417]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.11.31:087][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.11.31:087][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.11.31:088][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.11.31:089][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.11.31:089][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.11.31:089][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.11.31:117][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.11.31:117][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.11.31:117][417]LogInit: FAudioDevice initialized.
+[2021.06.30-23.11.31:117][417]LogAudio: Display: Audio Device (ID: 35) registered with world 'Kacper'.
+[2021.06.30-23.11.31:131][417]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.11.31:227][417]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.11.31
+[2021.06.30-23.11.31:230][417]LogWorld: Bringing up level for play took: 0.097092
+[2021.06.30-23.11.31:230][417]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.06.30-23.11.31:237][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.11.31:237][417]PIE: Server logged in
+[2021.06.30-23.11.31:238][417]PIE: Play in editor total start time 0,528 seconds.
+[2021.06.30-23.12.13:714][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2835.919 Y=-11951.325 Z=242.164] for [FirstPersonProjectile_C]
+[2021.06.30-23.12.30:593][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.12.30:593][706]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.12.30:595][706]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.12.30:607][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.12.30:620][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.12.30:645][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.12.30:682][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.12.30:682][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.12.30:684][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.12.30:715][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.12.30:731][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.30-23.12.30:766][707]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.06.30-23.13.26:076][913]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Kacper.Kacper:PersistentLevel.Kacper
+[2021.06.30-23.13.45:435][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pepe_change)
+[2021.06.30-23.13.50:053][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pepe_change)
+[2021.06.30-23.13.53:042][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Cube14)
+[2021.06.30-23.14.07:411][454]EditorErrors: New page: Actor attachment
+[2021.06.30-23.14.10:827][587]Cmd: TRANSACTION UNDO
+[2021.06.30-23.14.10:827][587]LogEditorTransaction: Undo Attach actors
+[2021.06.30-23.14.20:380][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Cube14)
+[2021.06.30-23.14.57:870][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.06.30-23.14.58:852][322]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/Kacper_Auto17B51E8794BF0D7B6159376854212531D.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/Autosaves/Game/FirstPersonBP/Kacper_Auto1.umap'
+[2021.06.30-23.14.58:858][322]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Kacper' took 1.037
+[2021.06.30-23.14.58:858][322]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.037
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x21a53353eb0 [can pipeline])
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.204.135.14) port 443 (#1))
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.06.30-23.16.20:676][300]LogHttp: Warning: 0000021AC1EB9D00: libcurl info message cache 7 (Closing connection 1)
+[2021.06.30-23.16.20:692][301]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.30-23.17.13:761][827]LogHttp: Warning: 0000021ACD52F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.30-23.17.13:762][827]LogHttp: Warning: 0000021ACD52F900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.30-23.17.13:762][827]LogHttp: Warning: 0000021ACD52F900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.30-23.17.13:762][827]LogHttp: Warning: 0000021ACD52F900: libcurl info message cache 1 (Closing connection 2)
+[2021.06.30-23.17.13:762][827]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.30-23.18.01:737][970]LogHttp: Warning: 0000021ACD52F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.06.30-23.18.01:737][970]LogHttp: Warning: 0000021ACD52F900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.06.30-23.18.01:737][970]LogHttp: Warning: 0000021ACD52F900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.06.30-23.18.01:737][970]LogHttp: Warning: 0000021ACD52F900: libcurl info message cache 1 (Closing connection 3)
+[2021.06.30-23.18.02:067][971]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B30409994-42DD-6AF3-376E-BBA585FFC75E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=1fc9fe524e72c700c2241098d6e47c8c%7Cd7f7bb79b4624cbdbe055755bafaa8df%7C22c10a04-8a37-496d-ad44-56df09b6f7a5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.06.30-23.19.15:724][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_Cube14)
+[2021.06.30-23.21.13:254][434]BlueprintLog: New page: Compile Kacper
+[2021.06.30-23.21.13:414][434]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.06.30-23.21.16:169][555]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.21.16:181][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.21.16:181][555]PIE: New page: PIE session: Kacper (1 lip 2021, 03:21:16)
+[2021.06.30-23.21.16:182][555]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.21.16:388][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206050s)
+[2021.06.30-23.21.16:389][555]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.21.16:390][555]LogPlayLevel: PIE: World Init took: (0.002562s)
+[2021.06.30-23.21.16:391][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.209383s)
+[2021.06.30-23.21.16:424][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.06.30-23.21.16:425][555]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.21.16:425][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.21.16:425][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.21.16:426][555]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.21.16:426][555]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.21.16:434][555]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.21.16:434][555]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.21.16:494][555]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.21.16:494][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.21.16:494][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.21.16:494][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.21.16:495][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.21.16:495][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.21.16:495][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.21.16:518][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.21.16:518][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.21.16:518][555]LogInit: FAudioDevice initialized.
+[2021.06.30-23.21.16:518][555]LogAudio: Display: Audio Device (ID: 36) registered with world 'Kacper'.
+[2021.06.30-23.21.16:527][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.21.16:597][555]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.21.16
+[2021.06.30-23.21.16:599][555]LogWorld: Bringing up level for play took: 0.071041
+[2021.06.30-23.21.16:600][555]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.06.30-23.21.16:605][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.21.16:605][555]PIE: Server logged in
+[2021.06.30-23.21.16:607][555]PIE: Play in editor total start time 0,427 seconds.
+[2021.06.30-23.22.55:103][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.22.55:103][155]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.22.55:106][155]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.22.55:119][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.22.55:134][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.22.55:167][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.22.55:211][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.22.55:212][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.22.55:213][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.22.55:248][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.22.55:262][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.06.30-23.22.55:312][156]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.06.30-23.23.30:064][678]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.23.30:077][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.23.30:077][678]PIE: New page: PIE session: Kacper (1 lip 2021, 03:23:30)
+[2021.06.30-23.23.30:078][678]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.23.30:348][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.269983s)
+[2021.06.30-23.23.30:350][678]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.23.30:351][678]LogPlayLevel: PIE: World Init took: (0.003392s)
+[2021.06.30-23.23.30:352][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.274011s)
+[2021.06.30-23.23.30:388][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.30-23.23.30:393][678]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.06.30-23.23.30:393][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.23.30:393][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.23.30:393][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.23.30:393][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.23.30:393][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.23.30:394][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.23.30:394][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.23.30:394][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.23.30:394][678]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.23.30:394][678]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.23.30:403][678]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.23.30:403][678]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.23.30:476][678]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.23.30:476][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.23.30:476][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.23.30:476][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.23.30:477][678]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.23.30:477][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.23.30:477][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.23.30:504][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.23.30:504][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.23.30:504][678]LogInit: FAudioDevice initialized.
+[2021.06.30-23.23.30:504][678]LogAudio: Display: Audio Device (ID: 37) registered with world 'Kacper'.
+[2021.06.30-23.23.30:515][678]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.23.30:615][678]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.23.30
+[2021.06.30-23.23.30:617][678]LogWorld: Bringing up level for play took: 0.100791
+[2021.06.30-23.23.30:618][678]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.06.30-23.23.30:625][678]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.23.30:626][678]PIE: Server logged in
+[2021.06.30-23.23.30:627][678]PIE: Play in editor total start time 0,551 seconds.
+[2021.06.30-23.23.44:808][800]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7840.208 Y=-12691.867 Z=447.846] for [FirstPersonProjectile_C]
+[2021.06.30-23.23.51:073][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.23.51:073][323]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.23.51:075][323]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.23.51:087][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.23.51:099][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.23.51:120][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.23.51:156][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.23.51:156][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.23.51:158][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.23.51:185][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.23.51:198][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.06.30-23.23.51:229][324]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.06.30-23.23.56:327][751]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.23.56:339][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.23.56:339][751]PIE: New page: PIE session: Kacper (1 lip 2021, 03:23:56)
+[2021.06.30-23.23.56:371][751]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.23.56:600][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.229075s)
+[2021.06.30-23.23.56:602][751]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.23.56:603][751]LogPlayLevel: PIE: World Init took: (0.002909s)
+[2021.06.30-23.23.56:603][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.232564s)
+[2021.06.30-23.23.56:640][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.06.30-23.23.56:642][751]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.23.56:643][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.23.56:643][751]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.23.56:643][751]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.23.56:651][751]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.23.56:651][751]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.23.56:715][751]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.23.56:716][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.23.56:716][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.23.56:716][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.23.56:716][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.23.56:716][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.23.56:716][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.23.56:742][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.23.56:742][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.23.56:742][751]LogInit: FAudioDevice initialized.
+[2021.06.30-23.23.56:742][751]LogAudio: Display: Audio Device (ID: 38) registered with world 'Kacper'.
+[2021.06.30-23.23.56:753][751]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.23.56:829][751]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.23.56
+[2021.06.30-23.23.56:832][751]LogWorld: Bringing up level for play took: 0.077371
+[2021.06.30-23.23.56:832][751]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.06.30-23.23.56:837][751]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.23.56:837][751]PIE: Server logged in
+[2021.06.30-23.23.56:838][751]PIE: Play in editor total start time 0,502 seconds.
+[2021.06.30-23.24.27:853][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.24.27:853][403]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.24.27:855][403]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.24.27:866][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.24.27:878][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.24.27:900][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.24.27:930][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.24.27:938][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.24.27:940][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.24.27:980][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.06.30-23.24.28:015][404]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.06.30-23.24.33:494][836]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2_invisible)
+[2021.06.30-23.24.37:524][110]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight_invisible2)
+[2021.06.30-23.24.40:764][343]Cmd: TRANSACTION UNDO
+[2021.06.30-23.24.40:764][343]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.24.47:674][777]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.24.47:688][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.24.47:688][777]PIE: New page: PIE session: Kacper (1 lip 2021, 03:24:47)
+[2021.06.30-23.24.47:688][777]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.24.47:921][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233069s)
+[2021.06.30-23.24.47:923][777]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.24.47:924][777]LogPlayLevel: PIE: World Init took: (0.002378s)
+[2021.06.30-23.24.47:924][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.235925s)
+[2021.06.30-23.24.47:958][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.06.30-23.24.47:965][777]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.24.47:965][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.24.47:965][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.24.47:966][777]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.24.47:966][777]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.24.47:973][777]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.24.47:973][777]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.24.48:033][777]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.24.48:033][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.24.48:033][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.24.48:033][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.24.48:034][777]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.24.48:034][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.24.48:034][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.24.48:059][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.24.48:059][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.24.48:059][777]LogInit: FAudioDevice initialized.
+[2021.06.30-23.24.48:059][777]LogAudio: Display: Audio Device (ID: 39) registered with world 'Kacper'.
+[2021.06.30-23.24.48:072][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.24.48:139][777]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.24.48
+[2021.06.30-23.24.48:141][777]LogWorld: Bringing up level for play took: 0.068723
+[2021.06.30-23.24.48:141][777]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2021.06.30-23.24.48:147][777]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.24.48:147][777]PIE: Server logged in
+[2021.06.30-23.24.48:148][777]PIE: Play in editor total start time 0,461 seconds.
+[2021.06.30-23.25.32:452][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.25.32:452][481]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.25.32:454][481]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.25.32:465][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.25.32:478][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.25.32:501][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.25.32:531][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.25.32:540][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.25.32:541][481]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.25.32:582][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.30-23.25.32:627][482]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2021.06.30-23.26.02:163][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marcin_NoEntryDoors3)
+[2021.06.30-23.26.10:401][404]LogActorFactory: Actor Factory created Marcin_PortalDoors
+[2021.06.30-23.26.11:192][449]LogActorFactory: Actor Factory created Marcin_PortalDoors
+[2021.06.30-23.27.05:601][229]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (shelf19)
+[2021.06.30-23.27.15:420][881]LogActorFactory: Actor Factory created Cube
+[2021.06.30-23.27.16:148][903]LogActorFactory: Actor Factory created Cube
+[2021.06.30-23.27.29:468][979]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.29:468][979]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.29:808][986]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.29:808][986]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.30:146][989]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.30:146][989]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.06.30-23.27.30:641][ 24]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.30:641][ 24]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.31:402][ 88]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.31:402][ 88]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.32:433][179]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.32:434][179]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.34:198][314]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.34:198][314]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.34:764][325]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.34:764][325]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.35:223][342]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.35:223][342]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.35:644][378]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.35:645][378]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.36:450][416]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.36:450][416]LogEditorTransaction: Undo Rotate Actors
+[2021.06.30-23.27.36:979][432]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.36:979][432]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.37:448][447]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.37:448][447]LogEditorTransaction: Undo Move Actors
+[2021.06.30-23.27.38:855][547]Cmd: TRANSACTION UNDO
+[2021.06.30-23.27.38:855][547]LogEditorTransaction: Undo Create Actors
+[2021.06.30-23.27.51:871][424]LogActorFactory: Actor Factory created Marcin_PortalDoors
+[2021.06.30-23.27.52:371][449]LogActorFactory: Actor Factory created Marcin_PortalDoors
+[2021.06.30-23.28.04:086][357]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (shelf13)
+[2021.06.30-23.28.07:346][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marcin_PortalDoors)
+[2021.06.30-23.28.29:930][ 96]LogActorFactory: Actor Factory created Cube
+[2021.06.30-23.28.30:920][140]LogActorFactory: Actor Factory created Cube
+[2021.06.30-23.29.14:564][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.31.04:674][309]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.06.30-23.31.05:270][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.31.07:441][524]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.06.30-23.31.15:463][137]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.06.30-23.31.15:480][137]LogContentBrowser: Creating deferred item: NewWorld
+[2021.06.30-23.31.18:947][455]LogContentBrowser: Attempting asset rename: NewWorld -> End
+[2021.06.30-23.31.18:952][455]LogContentBrowser: End creating deferred item NewWorld
+[2021.06.30-23.31.30:351][293]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.06.30-23.31.30:371][293]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.06.30-23.31.34:858][714]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> ending
+[2021.06.30-23.31.34:861][714]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.06.30-23.31.40:846][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-23.31.40:890][226]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.06.30-23.31.41:748][226]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperDBD07656451453FB6F91069EE91D63E4.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.30-23.31.41:792][226]AssetCheck: New page: Asset Save: Kacper
+[2021.06.30-23.31.41:792][226]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.30-23.31.42:502][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-23.31.42:537][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.06.30-23.31.43:380][290]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperB15294CE4D183E0D9FFDC58906693141.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.30-23.31.43:422][290]AssetCheck: New page: Asset Save: Kacper
+[2021.06.30-23.31.43:422][290]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.30-23.31.45:479][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/End" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/End.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-23.31.45:509][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.30-23.31.45:513][472]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/End950DA14946BB74B13298809E9D509EC2.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/End.umap'
+[2021.06.30-23.31.45:515][472]LogFileHelpers: Saving map 'End' took 0.037
+[2021.06.30-23.31.45:515][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ending" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/ending.uasset" SILENT=true
+[2021.06.30-23.31.45:520][472]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/ending38F8DBDA4BB55578C0C902BBB563638C.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/ending.uasset'
+[2021.06.30-23.31.45:540][472]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-23.31.45:541][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/ending.ending
+[2021.06.30-23.31.45:541][472]LogContentValidation: Display: Validating World /Game/End.End
+[2021.06.30-23.32.05:874][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.32.06:858][597]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.06.30-23.32.17:585][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marcin_PortalDoors)
+[2021.06.30-23.33.03:798][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.33.04:416][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.33.05:203][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.33.05:790][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.33.06:403][408]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2021.06.30-23.35.08:637][282]BlueprintLog: New page: Compile Kacper
+[2021.06.30-23.35.08:821][282]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.06.30-23.35.11:324][372]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.35.11:336][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.35.11:337][372]PIE: New page: PIE session: Kacper (1 lip 2021, 03:35:11)
+[2021.06.30-23.35.11:337][372]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.35.11:560][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222578s)
+[2021.06.30-23.35.11:562][372]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.35.11:562][372]LogPlayLevel: PIE: World Init took: (0.002682s)
+[2021.06.30-23.35.11:563][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.225807s)
+[2021.06.30-23.35.11:595][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.06.30-23.35.11:596][372]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.35.11:596][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.35.11:596][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.35.11:597][372]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.35.11:597][372]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.35.11:605][372]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.35.11:605][372]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.35.11:669][372]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.35.11:669][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.35.11:669][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.35.11:669][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.35.11:670][372]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.35.11:670][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.35.11:670][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.35.11:698][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.35.11:698][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.35.11:698][372]LogInit: FAudioDevice initialized.
+[2021.06.30-23.35.11:699][372]LogAudio: Display: Audio Device (ID: 40) registered with world 'Kacper'.
+[2021.06.30-23.35.11:708][372]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.35.11:780][372]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.35.11
+[2021.06.30-23.35.11:782][372]LogWorld: Bringing up level for play took: 0.073114
+[2021.06.30-23.35.11:782][372]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.06.30-23.35.11:788][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.35.11:788][372]PIE: Server logged in
+[2021.06.30-23.35.11:789][372]PIE: Play in editor total start time 0,454 seconds.
+[2021.06.30-23.35.20:640][847]LogLevel: Warning: Failed to find streaming level object associated with 'End'
+[2021.06.30-23.35.22:517][956]LogLevel: Warning: Failed to find streaming level object associated with 'End'
+[2021.06.30-23.35.25:693][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.35.25:693][134]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.35.25:696][134]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.35.25:706][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.35.25:722][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.35.25:749][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.35.25:785][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.35.25:785][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.35.25:786][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.35.25:814][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.35.25:826][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.06.30-23.35.25:871][135]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.06.30-23.36.21:994][917]BlueprintLog: New page: Compile Kacper
+[2021.06.30-23.36.22:162][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.06.30-23.36.24:385][988]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.36.24:397][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.36.24:397][988]PIE: New page: PIE session: Kacper (1 lip 2021, 03:36:24)
+[2021.06.30-23.36.24:397][988]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.36.24:621][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222967s)
+[2021.06.30-23.36.24:622][988]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.36.24:623][988]LogPlayLevel: PIE: World Init took: (0.002626s)
+[2021.06.30-23.36.24:624][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.226115s)
+[2021.06.30-23.36.24:659][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.06.30-23.36.24:660][988]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.36.24:660][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.36.24:660][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.36.24:661][988]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.36.24:661][988]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.36.24:669][988]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.36.24:669][988]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.36.24:733][988]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.36.24:733][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.36.24:733][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.36.24:733][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.36.24:734][988]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.36.24:734][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.36.24:734][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.36.24:759][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.36.24:759][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.36.24:759][988]LogInit: FAudioDevice initialized.
+[2021.06.30-23.36.24:759][988]LogAudio: Display: Audio Device (ID: 41) registered with world 'Kacper'.
+[2021.06.30-23.36.24:769][988]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.36.24:840][988]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.36.24
+[2021.06.30-23.36.24:842][988]LogWorld: Bringing up level for play took: 0.071882
+[2021.06.30-23.36.24:843][988]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.06.30-23.36.24:848][988]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.36.24:848][988]PIE: Server logged in
+[2021.06.30-23.36.24:849][988]PIE: Play in editor total start time 0,454 seconds.
+[2021.06.30-23.36.31:704][317]LogNet: Browse: /Game/End
+[2021.06.30-23.36.31:704][317]LogLoad: LoadMap: /Game/End
+[2021.06.30-23.36.31:704][317]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.36.31:707][317]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.36.31:719][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.36.31:762][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.36.31:776][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.06.30-23.36.31:782][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_End
+[2021.06.30-23.36.31:784][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001379s)
+[2021.06.30-23.36.31:785][317]LogAIModule: Creating AISystem for world End
+[2021.06.30-23.36.31:786][317]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2021.06.30-23.36.31:786][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/End.End to /Game/UEDPIE_0_End.End (0.003125s)
+[2021.06.30-23.36.31:786][317]LogAudio: Display: Audio Device (ID: 41) registered with world 'End'.
+[2021.06.30-23.36.31:786][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.36.31:787][317]LogWorld: Bringing World /Game/UEDPIE_0_End.End up for play (max tick rate 0) at 2021.07.01-01.36.31
+[2021.06.30-23.36.31:787][317]LogWorld: Bringing up level for play took: 0.000338
+[2021.06.30-23.36.31:788][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.30-23.36.31:791][317]LogLoad: Took 0.086427 seconds to LoadMap(/Game/UEDPIE_0_End)
+[2021.06.30-23.36.33:183][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.33:183][394]LogWorld: BeginTearingDown for /Game/UEDPIE_0_End
+[2021.06.30-23.36.33:184][394]LogWorld: UWorld::CleanupWorld for End, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.36.33:184][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.36.33:195][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.36.33:223][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.36.33:250][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.36.33:250][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.36.33:252][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.36.33:281][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.33:285][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.06.30-23.36.33:313][395]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.06.30-23.36.49:198][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marcin_PortalDoors)
+[2021.06.30-23.36.58:957][617]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2021.06.30-23.37.08:966][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Marcin_PortalDoors)
+[2021.06.30-23.37.15:177][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.30-23.38.05:808][662]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.38.05:823][662]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.30-23.38.05:825][662]LogPlayLevel: [PlayLevel] Compiling Kacper before play...
+[2021.06.30-23.38.06:083][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.06.30-23.38.06:090][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 266 ms (1 blueprints)
+[2021.06.30-23.38.06:090][662]PIE: New page: PIE session: Kacper (1 lip 2021, 03:38:06)
+[2021.06.30-23.38.06:090][662]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.38.06:341][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.251115s)
+[2021.06.30-23.38.06:343][662]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.38.06:344][662]LogPlayLevel: PIE: World Init took: (0.002582s)
+[2021.06.30-23.38.06:345][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.254236s)
+[2021.06.30-23.38.06:381][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.06.30-23.38.06:381][662]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.38.06:381][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.38.06:381][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.38.06:382][662]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.38.06:382][662]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.38.06:390][662]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.38.06:390][662]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.38.06:456][662]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.38.06:457][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.38.06:457][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.38.06:457][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.38.06:457][662]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.38.06:457][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.38.06:457][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.38.06:482][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.38.06:482][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.38.06:482][662]LogInit: FAudioDevice initialized.
+[2021.06.30-23.38.06:482][662]LogAudio: Display: Audio Device (ID: 42) registered with world 'Kacper'.
+[2021.06.30-23.38.06:494][662]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.38.06:572][662]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.38.06
+[2021.06.30-23.38.06:574][662]LogWorld: Bringing up level for play took: 0.079013
+[2021.06.30-23.38.06:575][662]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.06.30-23.38.06:581][662]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.38.06:581][662]PIE: Server logged in
+[2021.06.30-23.38.06:582][662]PIE: Play in editor total start time 0,761 seconds.
+[2021.06.30-23.38.07:323][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.38.07:323][679]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.38.07:325][679]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.38.07:337][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.38.07:352][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.38.07:380][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.38.07:410][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.38.07:419][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.38.07:420][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.38.07:466][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.30-23.38.07:528][680]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.06.30-23.38.09:384][718]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.38.09:396][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.38.09:396][718]PIE: New page: PIE session: Kacper (1 lip 2021, 03:38:09)
+[2021.06.30-23.38.09:397][718]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.38.09:618][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221407s)
+[2021.06.30-23.38.09:620][718]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.38.09:621][718]LogPlayLevel: PIE: World Init took: (0.002419s)
+[2021.06.30-23.38.09:621][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.224322s)
+[2021.06.30-23.38.09:655][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.06.30-23.38.09:656][718]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.38.09:656][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.38.09:656][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.38.09:657][718]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.38.09:657][718]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.38.09:665][718]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.38.09:665][718]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.38.09:727][718]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.38.09:727][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.38.09:727][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.38.09:727][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.38.09:728][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.38.09:728][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.38.09:728][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.38.09:754][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.38.09:754][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.38.09:754][718]LogInit: FAudioDevice initialized.
+[2021.06.30-23.38.09:754][718]LogAudio: Display: Audio Device (ID: 43) registered with world 'Kacper'.
+[2021.06.30-23.38.09:767][718]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.38.09:854][718]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.38.09
+[2021.06.30-23.38.09:856][718]LogWorld: Bringing up level for play took: 0.088661
+[2021.06.30-23.38.09:856][718]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.06.30-23.38.09:862][718]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.38.09:862][718]PIE: Server logged in
+[2021.06.30-23.38.09:863][718]PIE: Play in editor total start time 0,469 seconds.
+[2021.06.30-23.39.01:116][514]LogNet: Browse: /Game/End
+[2021.06.30-23.39.01:117][514]LogLoad: LoadMap: /Game/End
+[2021.06.30-23.39.01:117][514]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.39.01:119][514]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.39.01:131][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.39.01:174][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.30-23.39.01:189][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.30-23.39.01:196][514]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_End
+[2021.06.30-23.39.01:197][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001339s)
+[2021.06.30-23.39.01:198][514]LogAIModule: Creating AISystem for world End
+[2021.06.30-23.39.01:199][514]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.06.30-23.39.01:199][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/End.End to /Game/UEDPIE_0_End.End (0.003107s)
+[2021.06.30-23.39.01:199][514]LogAudio: Display: Audio Device (ID: 43) registered with world 'End'.
+[2021.06.30-23.39.01:199][514]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.39.01:200][514]LogWorld: Bringing World /Game/UEDPIE_0_End.End up for play (max tick rate 0) at 2021.07.01-01.39.01
+[2021.06.30-23.39.01:200][514]LogWorld: Bringing up level for play took: 0.000366
+[2021.06.30-23.39.01:201][514]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.30-23.39.01:204][514]LogLoad: Took 0.087394 seconds to LoadMap(/Game/UEDPIE_0_End)
+[2021.06.30-23.39.01:643][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.39.01:643][529]LogWorld: BeginTearingDown for /Game/UEDPIE_0_End
+[2021.06.30-23.39.01:643][529]LogWorld: UWorld::CleanupWorld for End, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.39.01:643][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.39.01:652][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.39.01:674][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.39.01:700][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.39.01:701][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.39.01:702][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.39.01:733][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.06.30-23.39.01:780][530]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.06.30-23.39.13:492][948]LogEditorViewport: Clicking on Actor (LMB): Actor (B3_Actor2)
+[2021.06.30-23.39.21:296][236]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.30-23.39.21:306][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.39.21:306][236]PIE: New page: PIE session: Kacper (1 lip 2021, 03:39:21)
+[2021.06.30-23.39.21:306][236]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.39.21:515][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208250s)
+[2021.06.30-23.39.21:517][236]LogAIModule: Creating AISystem for world Kacper
+[2021.06.30-23.39.21:518][236]LogPlayLevel: PIE: World Init took: (0.002355s)
+[2021.06.30-23.39.21:518][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Kacper.Kacper to /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper (0.211124s)
+[2021.06.30-23.39.21:550][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.06.30-23.39.21:554][236]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.39.21:554][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.39.21:554][236]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.39.21:554][236]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.39.21:560][236]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.39.21:560][236]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.39.21:615][236]LogAudioMixer: Display: Using Audio Device Słuchawki (2 — Arctis 7 Game)
+[2021.06.30-23.39.21:615][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.39.21:615][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.39.21:615][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.39.21:616][236]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.39.21:616][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.39.21:616][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.39.21:637][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.39.21:637][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.39.21:637][236]LogInit: FAudioDevice initialized.
+[2021.06.30-23.39.21:637][236]LogAudio: Display: Audio Device (ID: 44) registered with world 'Kacper'.
+[2021.06.30-23.39.21:648][236]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.06.30-23.39.21:714][236]LogWorld: Bringing World /Game/FirstPersonBP/UEDPIE_0_Kacper.Kacper up for play (max tick rate 0) at 2021.07.01-01.39.21
+[2021.06.30-23.39.21:715][236]LogWorld: Bringing up level for play took: 0.066482
+[2021.06.30-23.39.21:715][236]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.06.30-23.39.21:721][236]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.30-23.39.21:721][236]PIE: Server logged in
+[2021.06.30-23.39.21:722][236]PIE: Play in editor total start time 0,418 seconds.
+[2021.06.30-23.39.27:994][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.39.27:994][467]LogWorld: BeginTearingDown for /Game/FirstPersonBP/UEDPIE_0_Kacper
+[2021.06.30-23.39.27:996][467]LogWorld: UWorld::CleanupWorld for Kacper, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.39.28:006][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.39.28:018][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.39.28:032][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.39.28:065][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.39.28:066][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.39.28:067][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.39.28:105][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.06.30-23.39.28:153][468]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.06.30-23.39.34:283][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-23.39.34:320][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.06.30-23.39.35:177][682]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperCF12F967489DCA5A4119C5A4BC15C8AC.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.30-23.39.35:233][682]AssetCheck: New page: Asset Save: Kacper
+[2021.06.30-23.39.35:233][682]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.30-23.39.38:108][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Kacper" FILE="../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.30-23.39.38:139][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.06.30-23.39.38:926][729]LogSavePackage: Moving '../../../../Unreal/Projekt/Portal2.0/Portal/Saved/KacperB6A034C345D80DEAC9EB938B09026DE3.tmp' to '../../../../Unreal/Projekt/Portal2.0/Portal/Content/FirstPersonBP/Kacper.umap'
+[2021.06.30-23.39.38:945][729]LogFileHelpers: Saving map 'Kacper' took 0.838
+[2021.06.30-23.39.38:975][729]AssetCheck: New page: Asset Save: Kacper
+[2021.06.30-23.39.38:975][729]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Kacper.Kacper
+[2021.06.30-23.39.40:008][771]LogSlate: Window 'Kacper' being destroyed
+[2021.06.30-23.39.40:017][771]LogSlate: Window 'Kacper' being destroyed
+[2021.06.30-23.39.40:023][771]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.39.40:023][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
